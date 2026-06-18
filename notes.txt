@@ -1,2 +1,2 @@
 learning sf devops with Git
-Git commit saves a version of my changes.
+Git commit saves a version of my changes.Learning about branches.
