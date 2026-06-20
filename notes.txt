@@ -1,5 +1,6 @@
-learning sf devops with GitHub amit azure
+learning sf devops with GitHub and Azure DevOps
 Git commit saves a version of my changes.Learning about branches.
 GitHub stores my code online.Git Bash can update file directly
 I am learning pull request in github branch
 Amit updated this line
+Kaustubh updated this line
